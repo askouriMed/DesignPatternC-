@@ -3,3 +3,13 @@
 ################################################################################
 
 /PrototypePattern/PrototypePattern.csproj
+/BuilderPattern/obj
+/BuilderPattern/bin/Debug/netcoreapp2.1
+/FactoryMethodPattern/obj
+/FactoryMethodPattern/bin/Debug/netcoreapp2.1
+/PrototypePattern/obj
+/PrototypePattern/bin/Debug/netcoreapp2.1
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/DesignPattern/v16
+/.vs/DesignPattern/DesignTimeBuild

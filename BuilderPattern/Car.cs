@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace BuilderPattern
+﻿namespace BuilderPattern
 {
     public class Car:IBuilder
     {

@@ -1,4 +1,4 @@
-﻿namespace FactoryMethodPattern_Creational
+﻿namespace FactoryMethodPattern
 {
    public  interface IAnimal
    {

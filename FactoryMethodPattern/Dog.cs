@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FactoryMethodPattern_Creational
+namespace FactoryMethodPattern
 {
     public class Dog:IAnimal
     {
